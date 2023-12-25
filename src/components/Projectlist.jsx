@@ -30,7 +30,7 @@ function Projectlist() {
                 title="My old Porftolio"
                 description="This is my First portfolio i made only using HTML and CSS. I made this portfolio when i was learning HTML and CSS."
                 ghLink="https://github.com/Grundrak/Portfolio.github.io"
-                demoLink="https://vercel.com/grundraks-projects/portfolio-github-io"
+                demoLink="https://portfolio-github-io-liard.vercel.app/"
               />
             </Col>
             <Col md={4} className="project-card">
