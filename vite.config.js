@@ -7,4 +7,9 @@ export default defineConfig({
   build: {
     outDir: 'dist', 
   },
+  resolve: {
+    alias: {
+      '@': '..', // Adjust the alias based on your project structure
+    },
+  },
 })
